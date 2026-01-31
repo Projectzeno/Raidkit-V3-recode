@@ -4,6 +4,10 @@ A powerful, recoded version of the Raidkit utility designed for Discord server m
 High Performance: Optimized Python code for speed and stability.
 Modular Design: Easy to add or remove specific utility modules.
 User-Friendly: Simple CLI interface for quick configuration.
+Asyncio: faster raiding!
+custom ui!
+Faster then most kits!
+Public: No key needed!
 
 🚀 Installation
 Download from the release or clone the git
@@ -25,4 +29,6 @@ Prefix
 Target Settings
 ⚠️ Disclaimer
 This tool is for educational and authorized testing purposes only. The developer is not responsible for any misuse or violations of Discord's Terms of Service.
+
+
 
